@@ -1,4 +1,4 @@
-# ipear
+# iPear (ingame-interface)
 
 ## Project setup
 ```
