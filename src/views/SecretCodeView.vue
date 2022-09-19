@@ -71,7 +71,7 @@ export default {
     if (session.secretCode == null) {
       this.request();
     } else {
-      this.code = session.secretCode;
+      this.code = session.secretCode.split('').join(' ');
       this.expiresAt = session.secretCodeExpires;
       this.loading = false;
       this.calculateExpires();
