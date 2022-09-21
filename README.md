@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Showcases
+|                    Welcome page                     |                  Retrieve QR Code                  |                  Retrieve Secret Code                  |
+|:---------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------:|
+| ![Welcome page](showcases/ig_interface_welcome.png) | ![Welcome page](showcases/ig_interface_qrcode.png) | ![Welcome page](showcases/ig_interface_secretcode.png) |
